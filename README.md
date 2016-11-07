@@ -1,9 +1,9 @@
-# project-4-fullstack
+# P4 Tournament Results Project
 
 
 ## Introduction
 
-This is the project 4 Tournament Results project for Udacity Fullstack Nanodegree. This app covers the basics features such as...
+This is the Project 4 Tournament Results project for Udacity Fullstack Nanodegree. This app covers the basics features such as...
 - Data and Tables
 - SQL queries
 
